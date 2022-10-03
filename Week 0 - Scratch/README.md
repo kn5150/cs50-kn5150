@@ -12,7 +12,7 @@ Use either the left and right arrow keys or A and D to move Dot left and right.
 ## Scoring
 * Yellow stars = 1pt
 * Green stars = 5pt
-* Pink stars = 10pts
+* Pink stars = 10pt
 
 *Beware the dark stars that can deplete Dot's energy!*
 
