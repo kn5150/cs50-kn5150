@@ -1,4 +1,7 @@
 # Dot's Star Catcher
+
+![image](https://user-images.githubusercontent.com/101081243/193592876-3b71abbb-baaa-40fc-9f55-e7cd91704fac.png)
+
 *Help Dot collect as many stars as she can until she can no longer continue!*
 
 Play the game [here](https://scratch.mit.edu/projects/739990961/)!
