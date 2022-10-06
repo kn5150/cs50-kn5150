@@ -2,5 +2,5 @@
 
 ## Problem 1: Hello
 
-![image](https://user-images.githubusercontent.com/101081243/194279223-af515132-93f6-4c9a-a606-f7baa4244a0f.png)
+![image](https://user-images.githubusercontent.com/101081243/194279544-76648b18-6462-4157-ab91-653519dc502e.png)
 
