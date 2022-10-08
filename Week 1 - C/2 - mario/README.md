@@ -16,7 +16,7 @@ Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)
 
 Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
-![image](https://user-images.githubusercontent.com/101081243/194727568-8931fa69-bd85-4a1c-88e2-0ff9466cd3a5.png)
+![image](https://user-images.githubusercontent.com/101081243/194727579-7d3ab7ec-f509-40d3-8990-192c85e5d115.png)
 
 ### Grading
 
