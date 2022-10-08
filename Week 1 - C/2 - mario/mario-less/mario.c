@@ -6,14 +6,14 @@ void print_pyramid(int size);
 
 int main(void)
 {
-    // Get height
+    // User input for pyramid height from 1-8
     int n = get_height();
 
     // Print pyramid
     print_pyramid(n);
 }
 
-// User input for pyramid height from 1-8
+// Abstraction for height
 int get_height(void)
 {
     int n;
@@ -25,7 +25,7 @@ int get_height(void)
     return n;
 }
 
-// Print pyramid
+// Abstraction for printing pyramid
 void print_pyramid(int height)
 {
     // Process height value
@@ -37,11 +37,12 @@ void print_pyramid(int height)
             printf(" ");
         }
 
-        // Structure hashes like stairs
+        // Print pyramid
         for (int j = 0; j <= i; j++)
         {
             printf("#");
         }
+        // Print new line
         printf("\n");
     }
 }
