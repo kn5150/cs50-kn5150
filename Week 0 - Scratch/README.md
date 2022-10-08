@@ -18,7 +18,7 @@ Use either the left and right arrow keys or A and D to move Dot left and right.
 
 ## Notes and Credits
 * This was my first project for CS50 but ended up having a lot of fun developing it!
-* A few of the mechanics were inspired by the Lemon Catch game by [@lemonnade](https://scratch.mit.edu/users/Iemonnade/)
+* A few of the mechanics were inspired by the [Lemon Catch game](https://scratch.mit.edu/projects/707071007/) by [@lemonnade](https://scratch.mit.edu/users/Iemonnade/)
 
 ## Grading
 
