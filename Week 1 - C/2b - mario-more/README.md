@@ -1,4 +1,4 @@
-# Problem 2b: Mario "More"
+# Problem 2b: Mario (More)
 
 Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
 
