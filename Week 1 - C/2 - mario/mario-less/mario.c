@@ -25,16 +25,18 @@ int get_height(void)
     return n;
 }
 
-// Print right-aligned pyramid
+// Print pyramid
 void print_pyramid(int height)
 {
     for (int i = 0; i < height; i++)
     {
+        //Align pyramid rightward
         for (int space = height - 1; space > i; space--)
         {
             printf(" ");
         }
 
+        // Structure hashes like stairs
         for (int j = 0; j <= i; j++)
         {
             printf("#");
