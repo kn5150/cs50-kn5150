@@ -4,7 +4,8 @@
 int get_height(void);
 void print_pyramid(int size);
 
-int main(void) {
+int main(void) 
+{
 
     int n = get_height();
 
