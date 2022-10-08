@@ -28,6 +28,7 @@ int get_height(void)
 // Print pyramid
 void print_pyramid(int height)
 {
+    // Process height value
     for (int i = 0; i < height; i++)
     {
         //Align pyramid rightward
