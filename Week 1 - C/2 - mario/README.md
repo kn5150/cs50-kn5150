@@ -2,6 +2,8 @@
 
 ## 2a: "Less"
 
+Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)
+
 ![image](https://user-images.githubusercontent.com/101081243/194722624-bf005b1d-86e8-44a7-be76-8e13858dc488.png)
 
 ### Grading
@@ -11,3 +13,5 @@
 **Final Score:** 10/10 (100%)
 
 ## 2b: "More"
+
+Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/more/)
