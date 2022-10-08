@@ -17,7 +17,7 @@ int get_height(void)
     int n;
     do
     {
-        n = get_int("Size: ");
+        n = get_int("Height: ");
     }
     while (n < 1 || n > 8);
     return n;
