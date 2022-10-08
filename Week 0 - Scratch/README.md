@@ -20,7 +20,7 @@ Use either the left and right arrow keys or A and D to move Dot left and right.
 * This was my first project for CS50 but ended up having a lot of fun developing it!
 * A few of the mechanics were inspired by the [Lemon Catch game](https://scratch.mit.edu/projects/707071007/) by [@lemonnade](https://scratch.mit.edu/users/Iemonnade/)
 
-## Grading
+## check50 Grading
 
 ![image](https://user-images.githubusercontent.com/101081243/193599249-5366d531-b2fa-4132-b2f5-8fae8491a716.png)
 
