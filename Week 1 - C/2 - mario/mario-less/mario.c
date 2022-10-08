@@ -4,15 +4,16 @@
 int get_height(void);
 void print_pyramid(int size);
 
-int main(void) 
+int main(void)
 {
-
+    // Get height
     int n = get_height();
 
+    // Print pyramid
     print_pyramid(n);
 }
 
-
+// User input for pyramid height from 1-8
 int get_height(void)
 {
     int n;
@@ -24,6 +25,7 @@ int get_height(void)
     return n;
 }
 
+// Print right-aligned pyramid
 void print_pyramid(int height)
 {
     for (int i = 0; i < height; i++)
@@ -39,5 +41,4 @@ void print_pyramid(int height)
         }
         printf("\n");
     }
-
 }
