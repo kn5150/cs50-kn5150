@@ -1,4 +1,4 @@
-# Problem 2a: Mario "Less"
+# Problem 2a: Mario (Less)
 
 Details [here](https://cs50.harvard.edu/x/2022/psets/1/mario/less/)
 
