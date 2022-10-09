@@ -2,6 +2,8 @@
 
 Details [here](https://cs50.harvard.edu/x/2022/psets/1/cash/)
 
+![image](https://user-images.githubusercontent.com/101081243/194732449-cf3ac813-aa46-4d85-8ab3-aef4c5f54fa3.png)
+
 ## check50 Grading
 
 ### 1st Attempt
