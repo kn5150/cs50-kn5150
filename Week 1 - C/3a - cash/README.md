@@ -20,7 +20,7 @@ This was apparently the problem with the code. Why nickels and dimes were return
 
 ![image](https://user-images.githubusercontent.com/101081243/194732211-3be032cb-92f3-41dd-973d-4185945bbd45.png)
 
-That one little tweak managed to fix the code...I'll just throw in this screencap of a reply in the CS50 Discord server here as I now can relate. LOL
+That one little tweak managed to fix the code...I'll just throw in this screencap of a reply in the CS50 Discord server here as I now can relate. :see_no_evil: :joy:
 
 ![image](https://user-images.githubusercontent.com/101081243/194732242-7f7f42c9-6758-42d3-99e2-e923e5386d22.png)
 
