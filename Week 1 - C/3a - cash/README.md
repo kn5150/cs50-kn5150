@@ -8,6 +8,8 @@ Details [here](https://cs50.harvard.edu/x/2022/psets/1/cash/)
 
 ![image](https://user-images.githubusercontent.com/101081243/194732115-2ccd74ef-f98d-4da9-94cc-1630624e4468.png)
 
+**1st Score:** 11/15 (73.33%)
+
 ### 2nd Attempt
 
 ![image](https://user-images.githubusercontent.com/101081243/194732198-5556ed41-105a-4276-9864-050239f5cbb9.png)
