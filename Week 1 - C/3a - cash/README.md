@@ -12,8 +12,7 @@ Details [here](https://cs50.harvard.edu/x/2022/psets/1/cash/)
 
 ![image](https://user-images.githubusercontent.com/101081243/194732198-5556ed41-105a-4276-9864-050239f5cbb9.png)
 
-This was apparently the problem with the code. Why nickels and dimes were returning "0" was because I only set the condition to "greater than",
-not "greater than or equal to". 
+This was apparently the problem with the code. Why nickels and dimes were returning "0" was because I only set the condition to "greater than", not "greater than or equal to". 
 
 ![image](https://user-images.githubusercontent.com/101081243/194732211-3be032cb-92f3-41dd-973d-4185945bbd45.png)
 
